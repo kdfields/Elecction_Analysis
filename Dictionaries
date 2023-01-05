@@ -1,0 +1,6 @@
+pet_dog = {"name": "Angel",
+            "age": 2,
+            "hobbies": ["playing fetch", "swimming", "eating paper"],
+            "wake_up": {"Mon": 5, "Wed": 5, "Fri": 5, "Sun": 7}}
+
+print("Hello I am {pet_dog"

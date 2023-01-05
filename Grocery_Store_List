@@ -1,0 +1,19 @@
+# Grocery Store List
+
+# Create a Python list to store the following items as a list of strings.
+grocery_list = ["milk", "bread", "eggs", "peanut butter", "jelly"]
+
+# Print list
+print(grocery_list)
+
+# Replace peanut butter with almond butter via indexing.
+grocery_list[3] = "almond butter"
+
+# Removed jelly with pop()
+grocery_list.pop(4)
+
+# Added coffee with append()
+grocery_list.append("coffee")
+
+# Print updated list
+print(grocery_list)
