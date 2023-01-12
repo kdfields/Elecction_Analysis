@@ -45,6 +45,8 @@ The candidate results were:
  
 The winner of the election was:
 + Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+
+![image](https://user-images.githubusercontent.com/113741694/212165958-1f0d26c6-1e32-43ec-a48b-3e4a5668a75b.png)
   
  ## Election Audit Summary
  + This script would be useful to analyze future elections because none of the variables are state or city specific.  As long as the CSV files are formatted the same way (ballot ID, county, candidate) this script can be used.  In the event that the formatting is a little different, an experienced analyst could easily modify this code to extract the relevant information.
