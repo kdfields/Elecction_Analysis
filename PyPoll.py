@@ -9,7 +9,6 @@ file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 # 1. Initialize a total vote counter.
 total_votes = 0
-
 # Candidate Options and Candidate votes
 candidate_options = []  
 # Declare the empty dictionary.
@@ -28,7 +27,7 @@ with open(file_to_load) as election_data:
 
     # Print each row in the CSV file.
     for row in file_reader:
-        # Add to the total vote count.
+        # Add to the total vote count.      
         total_votes += 1
 
         # Print the candidate name from each row
